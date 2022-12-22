@@ -1,2 +1,2 @@
 # HTML-Resume
-My Resume by only HTML
+My Resume by HTML only
